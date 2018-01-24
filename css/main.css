@@ -1334,8 +1334,8 @@ header .logo a {
 	color: #cc005f;
 }
 .krit {
-	font-size: 48px;
 	color: #fff;
+	font-size: 48px;
 }
 
 /**
@@ -1352,6 +1352,9 @@ header .logo a {
 	}
 	.intro-social li {
 		margin: 0 15px;
+	}
+	.krit {
+		font-size: 30px;
 	}
 }
 @media only screen and (max-width:768px) {
@@ -1398,6 +1401,9 @@ header .logo a {
 	}
 	.intro-social {
 		font-size: 2.4rem;
+	}
+	.krit {
+		font-size: 23px;
 	}
 }
 
